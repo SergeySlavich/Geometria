@@ -1,4 +1,4 @@
-//Geometria
+ï»¿//Geometria
 #include<iostream>
 using namespace std;
 
@@ -15,7 +15,7 @@ void main()
 	setlocale(LC_ALL, "Russian");
 
 	int n;
-	cout << "Ââåäèòå êîëè÷åñòâî çâåçäî÷åê: "; cin >> n;
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð·Ð²ÐµÐ·Ð´Ð¾Ñ‡ÐµÐº: "; cin >> n;
 	//n == 2 ? cin >> m : cin >> k;
 #ifdef SQUARE
 	for (int i = 0; i < n; i++)
